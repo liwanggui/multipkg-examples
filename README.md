@@ -4,7 +4,7 @@
 ## 安装 multipkg
 
 - [Github](https://github.com/ytoolshed/multipkg.git)
-- [参数资料](https://yq.aliyun.com/articles/68346)
+- [参考资料](https://yq.aliyun.com/articles/68346)
 
 ```
 git clone https://github.com/ytoolshed/multipkg.git
