@@ -1,0 +1,10 @@
+default:
+  name: nginx
+#  http: http://nginx.org/download/nginx-1.3.10.tar.gz    # 程序将自动下载 nginx 源码包
+#  file: file:///usr/local/src/nginx/nginx-1.3.10.tar.gz  # 指定 nginx 源码包所在路径, 
+                                                          # 如果放在工程目录中可以不用指定，默认从工程目录查找。
+  version: 1.3.10
+  requires:
+    - pcre-devel
+    - openssl-devel
+    - zlib-devel

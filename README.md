@@ -1,4 +1,4 @@
-# multipkg 制作 rpm 包
+# multipkg 制作 rpm 包示例
 
 
 ## 安装 multipkg
