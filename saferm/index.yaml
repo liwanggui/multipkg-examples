@@ -1,0 +1,4 @@
+default:
+  name: saferm
+  version: 1.16
+  release: noarch
