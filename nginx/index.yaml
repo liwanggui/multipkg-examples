@@ -2,6 +2,7 @@ default:
   name: nginx
 #  http: http://nginx.org/download/nginx-1.3.10.tar.gz    # 程序将自动下载 nginx 源码包
   version: 1.3.10
+  release: el6
   requires:
     - pcre-devel
     - openssl-devel
