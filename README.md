@@ -22,7 +22,7 @@ git clone https://github.com/ytoolshed/multipkg.git
 
 cd multipkg
 
-yum install perl-YAML-Syck perl-ExtUtils-MakeMaker
+yum install -y perl-YAML-Syck perl-ExtUtils-MakeMaker rpm-build
 
 PREFIX=./root PKGVERID=0 INSTALLDIR=source scripts/transform
 perl -I ./source/lib root/usr/bin/multipkg -t .
