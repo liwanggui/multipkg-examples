@@ -36,4 +36,4 @@ git-multipkg -b https://github.com/ytoolshed/ multipkg
 sudo yum upgrade ./multipkg*rpm
 ```
 
-
+> 推荐使用 fpm 更简单的打包工具: https://github.com/jordansissel/fpm
